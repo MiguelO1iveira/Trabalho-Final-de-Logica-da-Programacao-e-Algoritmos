@@ -1,19 +1,14 @@
 📘 Trabalho Final – Lógica de Programação e Algoritmos
-
 Este repositório contém o Trabalho Final da disciplina de Lógica de Programação e Algoritmos, desenvolvido em Python, como parte da Atividade Prática – Módulo C.
 
 O objetivo do trabalho é demonstrar, na prática, os conhecimentos adquiridos ao longo da disciplina, incluindo estruturas de decisão, repetição, funções, listas, dicionários e tratamento de exceções.
 
+
 👨‍🎓 Informações do Aluno
-
 Nome: Miguel José Rodrigues de Oliveira
-
 RU: 5294941
-
 Curso: Engenharia de Software
-
 Disciplina: Lógica de Programação e Algoritmos
-
 Professor: Me. Bruno Kostiuk
 
 Ano: 2025
