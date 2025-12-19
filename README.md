@@ -6,10 +6,8 @@ O objetivo do trabalho é demonstrar, na prática, os conhecimentos adquiridos a
 
 👨‍🎓 Informações do Aluno
 Nome: Miguel José Rodrigues de Oliveira
-RU: 5294941
 Curso: Engenharia de Software
 Disciplina: Lógica de Programação e Algoritmos
-Professor: Me. Bruno Kostiuk
 Ano: 2025
 
 🧠 Conteúdo do Trabalho
@@ -81,7 +79,3 @@ Repositório: GitHub
 Trabalho desenvolvido individualmente, conforme orientação da disciplina.
 O código segue todas as exigências de implementação e saída descritas no enunciado oficial.
 O repositório tem finalidade acadêmica.
-
-📌 Autor
-Miguel José Rodrigues de Oliveira
-Estudante de Engenharia de Software
